@@ -88,20 +88,11 @@ Ce projet est une application de réseau social simple permettant aux utilisateu
 - **Like / Unlike** : Cliquez sur les boutons "Like" ou "Unlike" pour interagir avec les posts.
 - **Suppression de Post** : Cliquez sur "Delete" pour supprimer vos posts.
 
-## Contribuer
-
-Pour contribuer à ce projet, veuillez suivre ces étapes :
-
-1. Forkez le projet.
-2. Créez une branche pour vos modifications (`git checkout -b feature-nouvelle-fonctionnalité`).
-3. Faites vos modifications et commit (`git commit -am 'Ajout de nouvelle fonctionnalité'`).
-4. Poussez vos changements (`git push origin feature-nouvelle-fonctionnalité`).
-5. Créez une Pull Request.
 
 ## License
 
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](MIT) pour plus de détails.
 
 ## Auteur
 
-- **Votre Nom** - [Votre Profil GitHub](https://github.com/votre-utilisateur)
+- **Votre Nom** - [Votre Profil GitHub](https://github.com/Mohammed-ela/)
