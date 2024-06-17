@@ -2,10 +2,6 @@
 
 @section('content')
 <div class="container mx-auto p-4">
-    <!-- Bouton pour ouvrir la modal de création de post -->
-    <div class="flex justify-end mb-4">
-        <button class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" data-bs-toggle="modal" data-bs-target="#createPostModal">Add Post</button>
-    </div>
 
     <!-- Modal de création de post -->
     <div class="modal fade" id="createPostModal" tabindex="-1" aria-labelledby="createPostModalLabel" aria-hidden="true">
