@@ -23,7 +23,7 @@ Ce projet est une application de réseau social simple permettant aux utilisateu
 
 ### Prérequis
 
-- PHP >= 7.4
+- PHP 8
 - Composer
 - MySQL
 
@@ -32,13 +32,13 @@ Ce projet est une application de réseau social simple permettant aux utilisateu
 1. Clonez le dépôt :
 
    ```bash
-   git clone 
+   git clone "https://github.com/Mohammed-ela/laravel-timeline"
    ```
 
 2. Accédez au répertoire du projet :
 
    ```bash
-   cd votre-projet
+   cd le dossier
    ```
 
 3. Installez les dépendances via Composer :
@@ -53,13 +53,7 @@ Ce projet est une application de réseau social simple permettant aux utilisateu
    cp .env.example .env
    ```
 
-5. Générez la clé d'application :
-
-   ```bash
-   php artisan key:generate
-   ```
-
-6. Configurez votre base de données dans le fichier `.env` :
+5. Configurez votre base de données dans le fichier `.env` :
 
    ```env
    DB_CONNECTION=mysql
@@ -70,13 +64,13 @@ Ce projet est une application de réseau social simple permettant aux utilisateu
    DB_PASSWORD=mot_de_passe
    ```
 
-7. Exécutez les migrations pour créer la base de données :
+6. Exécutez les migrations pour créer la base de données :
 
    ```bash
    php artisan migrate
    ```
 
-8. Démarrez le serveur de développement :
+7. Démarrez le serveur de développement :
 
    ```bash
    php artisan serve
